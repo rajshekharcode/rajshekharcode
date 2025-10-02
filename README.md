@@ -38,6 +38,10 @@ I'm a passionate web developer who loves creating interactive and responsive web
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajshekharcode&theme=radical)
 
+## 📈 Activity & Contributions
+
+![Rajshekhar's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajshekharcode&theme=radical)
+
 ## 💡 Fun Fact
 
 I believe in continuous learning and improvement. Every project is an opportunity to grow!
