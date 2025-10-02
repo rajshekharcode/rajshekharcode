@@ -28,7 +28,7 @@ I'm a passionate web developer who loves creating interactive and responsive web
 
 - Email: rajshekharverma286@gmail.com
 - GitHub: [@rajshekharcode](https://github.com/rajshekharcode)
-- LinkedIn: [Add your correct LinkedIn profile URL here]
+- LinkedIn: www.linkedin.com/in/rajshekhar-verma
 
 ## 📊 GitHub Stats
 
